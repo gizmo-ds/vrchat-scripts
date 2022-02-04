@@ -6,5 +6,5 @@ BOOTH: https://gizmooooo.booth.pm/
 
 ## How to use
 
-1. Save file to `Editor/AnimationTool.cs`
+1. Extract the file to `Editor/AnimationTool.cs`
 2. Open up **Tools** -> **Gizmo**-> **AnimationTool**
